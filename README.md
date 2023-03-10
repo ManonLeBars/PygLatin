@@ -1,2 +1,2 @@
 # PygLatin
-Convertisseur
+Traducteur :pig_nose:
